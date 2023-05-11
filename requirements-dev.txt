@@ -1,0 +1,7 @@
+# linting & typing
+black
+flake8
+# sphinx
+sphinx
+sphinx_rtd_theme
+sphinxcontrib-napoleon
