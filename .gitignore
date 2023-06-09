@@ -7,6 +7,8 @@
 sandbox.py
 sandbox/
 .DS_Store
+docs
+tisea/docs
 # Virtualenv
 venv/
 .vscode/

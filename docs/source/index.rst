@@ -9,6 +9,8 @@ Welcome to tisea's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   tisea/preprocessing
 
 
 

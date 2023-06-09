@@ -6,7 +6,8 @@
 
 ```Python
 sphinx
-sphinx_rtd_theme
+sphinx-rtd-theme
 sphinxcontrib-napoleon
 ```
+
 - create & cd to `docs` folder in the main, and type `sphinx-quickstart`
